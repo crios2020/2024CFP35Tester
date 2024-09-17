@@ -1,4 +1,5 @@
-# 2024CFP35Tester
+# Atención Jueves 19/09 NO HAY CLASES !!!!! 
+2024CFP35Tester
 
 Centro de Formación Profesional Nro 35  (Algarrobo 1041 Barracas - aula 134)
 Curso:  Tester de Aplicaciones   50 hs reloj
