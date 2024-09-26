@@ -1,4 +1,4 @@
-# Atención Jueves 19/09 NO HAY CLASES !!!!! 
+# Curso Tester
 2024CFP35Tester
 
 Centro de Formación Profesional Nro 35  (Algarrobo 1041 Barracas - aula 134)
